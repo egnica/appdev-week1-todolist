@@ -7,9 +7,9 @@ assignees: SonicDMG, RyanWelford
 
 ---
 
-**Name:** <Full Name>
-**Email:** <Email>
-**Linkedin Profile:** <Link>
+**Name:** Nicholas Egner
+**Email:** nictacks@gmail.com
+**Linkedin Profile:** https://www.linkedin.com/in/nicholas-egner-2261672a/
 
 Attach the homework screenshots below:
 -----------------------------------------
